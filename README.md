@@ -14,6 +14,7 @@ The fabric-pretty-standard-django-stack (fabric-psds) is a project that aims to 
 * Codebase in Git, with tagged releases.
 
 It will support the following operations:
+
 * Provision a working server from scratch
 * Deploy
 * Rollback
