@@ -1,3 +1,5 @@
+from fabric.api import env, task
+import fabric_psds
 
 
 @task
